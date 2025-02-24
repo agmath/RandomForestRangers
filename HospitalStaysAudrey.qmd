@@ -1,8 +1,8 @@
 ---
 title: Hospital Stay Models
 author: 
-  - name: Adam Gilbert
-    email: a.gilbert1@snhu.edu
+  - name: Audrey Saidel
+    email: audrey.saidel@snhu.edu
     affiliations: 
       - name: Southern New Hampshire University
 format: html
