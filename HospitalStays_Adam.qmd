@@ -135,7 +135,7 @@ knn_tune_results <- knn_wf %>%
 tictoc::toc()
 ```
 
-### Cross-Validation with Parallel Processing
+### Hyperparamater Tuning with Parallel Processing
 
 ```{r}
 #| label: about-7-min
